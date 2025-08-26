@@ -1,0 +1,1 @@
+Bug fixed: typo corrected in README.md
